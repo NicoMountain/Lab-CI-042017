@@ -9,3 +9,4 @@ services:
       traefik.enable: true
       traefik.domain: traefik.tnt-labs.org
       io.rancher.container.pull_image: always
+
